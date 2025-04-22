@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="biru">#1E90FF</color>
+    <color name="force">#5D8AA8</color>
 </resources>

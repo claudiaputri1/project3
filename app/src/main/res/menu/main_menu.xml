@@ -6,6 +6,7 @@
         android:id="@+id/action_menu1"
         android:title="Menu 1"
         android:icon="@drawable/search"
+        android:iconTint="@color/force"
         app:showAsAction="always" />
     <item
         android:id="@+id/action_menu2"
